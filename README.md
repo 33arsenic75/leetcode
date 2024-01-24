@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/33Arsenic75/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/33Arsenic75/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/33Arsenic75/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
@@ -701,6 +702,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/33arsenic75/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
@@ -780,6 +782,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -1140,4 +1143,8 @@
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
