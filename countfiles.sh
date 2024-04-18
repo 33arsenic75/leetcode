@@ -1,5 +1,8 @@
 #!/bin/bash
 
-find . -type f -name "*.cpp" | wc -l
+find . -type d -name 'venv' -prune -o \( -type f \( -name "*.cpp" -o -name "*.py" \) -print \) | wc -l
+
+
+
 
 

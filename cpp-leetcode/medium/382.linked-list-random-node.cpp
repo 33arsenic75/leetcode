@@ -15,23 +15,29 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#include <vector>
+#include <cstdlib> // for rand()
+using namespace std;
+
 class Solution {
 public:
-    queue<int>q;
+    vector<int> q;
+    int n;
+
     Solution(ListNode* head) {
-        while(head){
-            q.push(head->val);
-            head=head->next;
+        while (head) {
+            q.push_back(head->val);
+            head = head->next;
         }
+        n = q.size();
     }
     
     int getRandom() {
-        int temp = q.front();
-        q.pop();
-        q.push(temp);
-        return temp;
+        int idx = rand() % n;
+        return q[idx];
     }
 };
+
 
 /**
  * Your Solution object will be instantiated and called as such:
