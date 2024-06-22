@@ -1,25 +1,24 @@
 class Solution {
 public:
-    long long timetaken(vector<int>& piles, int k)
-    {
-        long long ans=0;
-        for (int i=0; i<piles.size(); i++){
-            ans+= (piles[i]/k)+(piles[i]%k!=0);
+    int minEatingSpeed(vector<int>& piles, int h) {
+        function<bool(long long)>check = [&](long long k){
+            long long time = 0;
+            for(int i:piles){
+                time += (i+k-1)/k;
+            }
+            return (time<=h);
+        };
+        long long low = 1, high = 1e14, ans = 0, mid = 0;
+        while(low <= high){
+            mid = low + (high - low)/2;
+            if(check(mid)){
+                ans = mid;
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
         }
         return ans;
-    }
-    int minEatingSpeed(vector<int>& piles, int h)
-     {
-        int low=1; int high= *max_element(piles.begin(),piles.end());
-        while (low <= high)
-        {
-            int mid= low+ (high-low)/2;
-            if (timetaken(piles,mid)<=h)
-            {
-                high= mid-1;
-            }
-            else low= mid+1;
-        }
-        return low;
     }
 };
