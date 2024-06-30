@@ -365,6 +365,7 @@
 | [3430-count-days-without-meetings](https://github.com/33Arsenic75/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/33Arsenic75/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/33arsenic75/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/33arsenic75/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/33Arsenic75/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -983,6 +984,7 @@
 | [2998-count-symmetric-integers](https://github.com/33Arsenic75/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/33Arsenic75/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3469-maximum-height-of-a-triangle](https://github.com/33arsenic75/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
