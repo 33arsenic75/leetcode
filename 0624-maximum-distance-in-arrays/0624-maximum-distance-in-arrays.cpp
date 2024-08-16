@@ -1,10 +1,9 @@
 class Solution {
 public:
-    static int maxDistance(vector<vector<int>>& arrays) {
+    int maxDistance(vector<vector<int>>& arrays) {
         int xMin=1e5, xMax=-1e5;
         int diff=0;
         int m=arrays.size();
-        //1 pass 
         for(auto& arr: arrays){
             int a0=arr[0], aN=arr.back();
             diff=max({diff, aN-xMin, xMax-a0});
@@ -14,13 +13,3 @@ public:
         return diff;
     }
 };
-
-
-
- 
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
