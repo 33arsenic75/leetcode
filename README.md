@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [3533-snake-in-matrix](https://github.com/33Arsenic75/leetcode/tree/master/3533-snake-in-matrix) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
