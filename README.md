@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3533-snake-in-matrix](https://github.com/33Arsenic75/leetcode/tree/master/3533-snake-in-matrix) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## String
 |  |
 | ------- |
@@ -26,16 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/33Arsenic75/leetcode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 <!---LeetCode Topics End-->
