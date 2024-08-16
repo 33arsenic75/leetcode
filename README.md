@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/33Arsenic75/leetcode/tree/master/3533-snake-in-matrix) |
+## Tree
+|  |
+| ------- |
+| [3486-count-the-number-of-good-nodes](https://github.com/33Arsenic75/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3486-count-the-number-of-good-nodes](https://github.com/33Arsenic75/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
 <!---LeetCode Topics End-->
