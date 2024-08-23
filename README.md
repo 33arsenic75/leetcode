@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/33Arsenic75/leetcode/tree/master/0210-course-schedule-ii) |
 | [3486-count-the-number-of-good-nodes](https://github.com/33Arsenic75/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
 ## Math
 |  |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/33Arsenic75/leetcode/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/33Arsenic75/leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/33Arsenic75/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
