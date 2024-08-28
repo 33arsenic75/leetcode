@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0054-spiral-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [3533-snake-in-matrix](https://github.com/33Arsenic75/leetcode/tree/master/3533-snake-in-matrix) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0054-spiral-matrix) |
 | [3533-snake-in-matrix](https://github.com/33Arsenic75/leetcode/tree/master/3533-snake-in-matrix) |
 ## Tree
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/33Arsenic75/leetcode/tree/master/0210-course-schedule-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
