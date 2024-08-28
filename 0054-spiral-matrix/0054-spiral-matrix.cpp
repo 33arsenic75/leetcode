@@ -1,37 +1,42 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int lowR=0, lowC=0;
-        int highR = matrix.size()-1;
-        int highC = matrix[0].size()-1;
         vector<int> result;
-
-        while (lowR<=highR || lowC<=highC) {
-            if (lowR <= highR) {
-                for (int c = lowC; c <= highC; c++) {
-                    result.push_back(matrix[lowR][c]);
-                }
-                lowR++;
+        if (matrix.empty() || matrix[0].empty()) return result;
+        
+        int m = matrix.size(), n = matrix[0].size();
+        int left = 0, right = n - 1, top = 0, bottom = m - 1;
+        
+        while (left <= right && top <= bottom) {
+            // Traverse right
+            for (int j = left; j <= right; j++) {
+                result.push_back(matrix[top][j]);
             }
-            if (lowC <= highC) {
-                for (int r = lowR; r <= highR; r++) {
-                    result.push_back(matrix[r][highC]);
-                }
+            top++;
+            
+            // Traverse down
+            for (int i = top; i <= bottom; i++) {
+                result.push_back(matrix[i][right]);
             }
-            highC--;
-            if (lowR <= highR) {
-                for (int c = highC; c >= lowC; c--) {
-                    result.push_back(matrix[highR][c]);
+            right--;
+            
+            if (top <= bottom) {
+                // Traverse left
+                for (int j = right; j >= left; j--) {
+                    result.push_back(matrix[bottom][j]);
                 }
-                highR--;    
+                bottom--;
             }
-            if (lowC <= highC) {
-                for (int r = highR; r >= lowR; r--) {
-                    result.push_back(matrix[r][lowC]);
+            
+            if (left <= right) {
+                // Traverse up
+                for (int i = bottom; i >= top; i--) {
+                    result.push_back(matrix[i][left]);
                 }
-                lowC++;
+                left++;
             }
         }
+        
         return result;
     }
 };
