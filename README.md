@@ -190,6 +190,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/33Arsenic75/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/33arsenic75/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/33Arsenic75/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/33Arsenic75/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/33Arsenic75/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -267,6 +268,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1696-strange-printer-ii](https://github.com/33arsenic75/leetcode/tree/master/1696-strange-printer-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1755-defuse-the-bomb](https://github.com/33arsenic75/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/33Arsenic75/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/33Arsenic75/leetcode/tree/master/1876-map-of-highest-peak) |
