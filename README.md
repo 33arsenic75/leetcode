@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/33Arsenic75/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/33arsenic75/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -793,6 +794,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/33arsenic75/leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
