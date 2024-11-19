@@ -76,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
