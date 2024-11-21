@@ -98,6 +98,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/33Arsenic75/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/33arsenic75/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/33arsenic75/leetcode/tree/master/2846-robot-collisions) |
@@ -307,6 +308,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/33Arsenic75/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/33Arsenic75/leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2308-divide-array-into-equal-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/33arsenic75/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/33Arsenic75/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/33Arsenic75/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -611,6 +613,7 @@
 | [2089-maximum-matrix-sum](https://github.com/33Arsenic75/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/33Arsenic75/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/33arsenic75/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/33Arsenic75/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/33Arsenic75/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
