@@ -283,6 +283,7 @@
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/33Arsenic75/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1972-rotating-the-box](https://github.com/33arsenic75/leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/33Arsenic75/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/33Arsenic75/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -613,6 +614,7 @@
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1696-strange-printer-ii](https://github.com/33arsenic75/leetcode/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/33Arsenic75/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/33arsenic75/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/33Arsenic75/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/33Arsenic75/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -791,6 +793,7 @@
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1972-rotating-the-box](https://github.com/33arsenic75/leetcode/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/33Arsenic75/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
