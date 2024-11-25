@@ -130,6 +130,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/33arsenic75/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -254,6 +255,7 @@
 | [0945-snakes-and-ladders](https://github.com/33Arsenic75/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/33Arsenic75/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -412,6 +414,7 @@
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -500,6 +503,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/33Arsenic75/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1174,4 +1178,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+## Prime Factorization
+|  |
+| ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
