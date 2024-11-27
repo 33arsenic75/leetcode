@@ -40,6 +40,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/33Arsenic75/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Math
 |  |
@@ -138,8 +139,10 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/33Arsenic75/leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
