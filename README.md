@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2649-count-total-number-of-colored-cells](https://github.com/33Arsenic75/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Greedy
 |  |
