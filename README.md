@@ -7,6 +7,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/33Arsenic75/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/33Arsenic75/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Simulation
@@ -139,6 +140,7 @@
 | ------- |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -176,4 +178,8 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
