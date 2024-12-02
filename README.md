@@ -7,6 +7,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/33Arsenic75/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/33Arsenic75/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -61,6 +62,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -80,6 +82,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
