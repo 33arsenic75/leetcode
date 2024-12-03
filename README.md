@@ -148,6 +148,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/33Arsenic75/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -211,4 +212,8 @@
 |  |
 | ------- |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/33Arsenic75/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
