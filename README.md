@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2478-longest-nice-subarray](https://github.com/33Arsenic75/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Array
@@ -50,6 +51,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/33Arsenic75/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2478-longest-nice-subarray](https://github.com/33Arsenic75/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [2778-frequency-tracker](https://github.com/33Arsenic75/leetcode/tree/master/2778-frequency-tracker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/33Arsenic75/leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
