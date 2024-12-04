@@ -11,6 +11,7 @@
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0481-magical-string](https://github.com/33Arsenic75/leetcode/tree/master/0481-magical-string) |
+| [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/33Arsenic75/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -22,6 +23,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/33Arsenic75/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
@@ -72,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
