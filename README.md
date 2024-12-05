@@ -15,6 +15,7 @@
 | [0551-student-attendance-record-i](https://github.com/33Arsenic75/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
@@ -33,6 +34,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/33Arsenic75/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-frequency-tracker](https://github.com/33Arsenic75/leetcode/tree/master/2778-frequency-tracker) |
@@ -54,6 +56,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
@@ -143,6 +146,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -193,6 +197,7 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Memoization
@@ -202,6 +207,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -248,4 +254,8 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
