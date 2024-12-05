@@ -53,6 +53,7 @@
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
