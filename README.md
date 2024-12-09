@@ -81,6 +81,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Math
@@ -122,6 +123,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/33Arsenic75/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 ## Queue
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
