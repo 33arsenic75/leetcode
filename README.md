@@ -19,6 +19,7 @@
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/33Arsenic75/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
