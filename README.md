@@ -32,6 +32,7 @@
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/33Arsenic75/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Math
 |  |
@@ -119,6 +121,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/33Arsenic75/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Greedy
 |  |
@@ -168,6 +171,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
