@@ -19,6 +19,7 @@
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/33Arsenic75/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -42,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2778-frequency-tracker](https://github.com/33Arsenic75/leetcode/tree/master/2778-frequency-tracker) |
@@ -137,6 +139,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/33Arsenic75/leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/33Arsenic75/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -172,6 +175,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -222,6 +226,7 @@
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
