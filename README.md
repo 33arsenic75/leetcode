@@ -126,6 +126,7 @@
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -140,6 +141,7 @@
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/33Arsenic75/leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
