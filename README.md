@@ -83,6 +83,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
+| [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -229,6 +231,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -289,6 +292,7 @@
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
@@ -402,5 +406,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
