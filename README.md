@@ -302,6 +302,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Memoization
 |  |
@@ -324,6 +326,7 @@
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -399,6 +402,7 @@
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
