@@ -123,6 +123,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/33Arsenic75/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
@@ -188,6 +189,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/33Arsenic75/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 ## Queue
@@ -208,6 +210,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -310,6 +313,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -443,8 +447,17 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
