@@ -326,6 +326,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -339,6 +340,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -356,6 +358,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -442,6 +445,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
