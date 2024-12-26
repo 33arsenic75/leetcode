@@ -88,6 +88,7 @@
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
@@ -276,11 +277,13 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
+| [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
