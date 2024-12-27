@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 | [0481-magical-string](https://github.com/33Arsenic75/leetcode/tree/master/0481-magical-string) |
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/33Arsenic75/leetcode/tree/master/0551-student-attendance-record-i) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -425,6 +427,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/33Arsenic75/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
+| [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
