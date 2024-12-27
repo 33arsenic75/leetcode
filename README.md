@@ -51,6 +51,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/33Arsenic75/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -87,6 +88,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
@@ -193,6 +195,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -253,6 +256,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
@@ -310,6 +314,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/33Arsenic75/leetcode/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
