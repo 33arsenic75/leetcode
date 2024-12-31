@@ -301,6 +301,7 @@
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -407,6 +409,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
