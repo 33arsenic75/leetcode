@@ -263,6 +263,7 @@
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-minimum-cost-for-tickets](https://github.com/33arsenic75/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/33Arsenic75/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/33arsenic75/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -755,6 +756,7 @@
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/33arsenic75/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/33arsenic75/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/33Arsenic75/leetcode/tree/master/1170-shortest-common-supersequence) |
