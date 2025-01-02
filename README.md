@@ -67,6 +67,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/33Arsenic75/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/33arsenic75/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/33arsenic75/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/33Arsenic75/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/33Arsenic75/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -346,6 +347,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/33Arsenic75/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/33Arsenic75/leetcode/tree/master/2690-house-robber-iv) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/33arsenic75/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/33arsenic75/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -599,6 +601,7 @@
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2358-number-of-ways-to-split-array](https://github.com/33Arsenic75/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/33Arsenic75/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/33arsenic75/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
