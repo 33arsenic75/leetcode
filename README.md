@@ -46,6 +46,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/33arsenic75/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/33Arsenic75/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/33Arsenic75/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/33Arsenic75/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/33Arsenic75/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -289,6 +290,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/33Arsenic75/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/33Arsenic75/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/33Arsenic75/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -595,6 +597,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/33Arsenic75/leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2249-count-the-hidden-sequences) |
