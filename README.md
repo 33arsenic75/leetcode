@@ -46,6 +46,7 @@
 | [0043-multiply-strings](https://github.com/33Arsenic75/leetcode/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/33Arsenic75/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -114,6 +115,7 @@
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/33Arsenic75/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/33Arsenic75/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
