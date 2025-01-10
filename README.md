@@ -29,6 +29,7 @@
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
+| [0952-word-subsets](https://github.com/33arsenic75/leetcode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/33Arsenic75/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/33arsenic75/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -134,6 +135,7 @@
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0952-word-subsets](https://github.com/33arsenic75/leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -260,6 +262,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/33Arsenic75/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0952-word-subsets](https://github.com/33arsenic75/leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
