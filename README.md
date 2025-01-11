@@ -22,6 +22,7 @@
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [1238-alphabet-board-path](https://github.com/33Arsenic75/leetcode/tree/master/1238-alphabet-board-path) |
+| [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -66,6 +67,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1238-alphabet-board-path](https://github.com/33Arsenic75/leetcode/tree/master/1238-alphabet-board-path) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/33Arsenic75/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -193,6 +195,7 @@
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/33Arsenic75/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/33Arsenic75/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
