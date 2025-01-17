@@ -155,6 +155,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/33Arsenic75/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/33Arsenic75/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/33Arsenic75/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3164-last-visited-integers](https://github.com/33Arsenic75/leetcode/tree/master/3164-last-visited-integers) |
@@ -468,6 +469,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/33Arsenic75/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/33Arsenic75/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/33Arsenic75/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/33Arsenic75/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Enumeration
 |  |
