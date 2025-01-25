@@ -167,6 +167,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/33Arsenic75/leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/33Arsenic75/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -319,6 +320,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/33Arsenic75/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/33Arsenic75/leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/33Arsenic75/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Counting
 |  |
@@ -521,6 +523,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/33Arsenic75/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
 | ------- |
