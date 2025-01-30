@@ -454,6 +454,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/33Arsenic75/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -471,6 +472,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/33Arsenic75/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/33Arsenic75/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/33Arsenic75/leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/33Arsenic75/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -536,6 +538,7 @@
 | [0684-redundant-connection](https://github.com/33Arsenic75/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/33Arsenic75/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/33Arsenic75/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
