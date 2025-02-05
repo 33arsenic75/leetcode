@@ -27,6 +27,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/33Arsenic75/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/33Arsenic75/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -70,6 +71,7 @@
 | [1238-alphabet-board-path](https://github.com/33Arsenic75/leetcode/tree/master/1238-alphabet-board-path) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/33Arsenic75/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/33Arsenic75/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -335,6 +337,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/33Arsenic75/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/33Arsenic75/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/33Arsenic75/leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
