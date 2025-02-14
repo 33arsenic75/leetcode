@@ -281,6 +281,7 @@
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/33Arsenic75/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -436,6 +437,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/33Arsenic75/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -600,6 +602,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1003,6 +1006,7 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/33Arsenic75/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/33Arsenic75/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/33Arsenic75/leetcode/tree/master/2778-frequency-tracker) |
@@ -1232,4 +1236,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
