@@ -219,6 +219,7 @@
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/33Arsenic75/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
