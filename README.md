@@ -155,6 +155,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/33Arsenic75/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/33Arsenic75/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/33Arsenic75/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -224,6 +225,7 @@
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/33Arsenic75/leetcode/tree/master/2145-grid-game) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
@@ -403,6 +406,7 @@
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
