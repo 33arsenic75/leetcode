@@ -162,6 +162,7 @@
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/33Arsenic75/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/33Arsenic75/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/33Arsenic75/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -300,6 +301,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/33Arsenic75/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/33Arsenic75/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
