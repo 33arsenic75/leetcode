@@ -20,6 +20,7 @@
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -85,6 +86,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -288,6 +290,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -502,6 +505,7 @@
 | [0481-magical-string](https://github.com/33Arsenic75/leetcode/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0959-3sum-with-multiplicity](https://github.com/33Arsenic75/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
