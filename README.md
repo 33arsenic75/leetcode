@@ -196,6 +196,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/33Arsenic75/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/33Arsenic75/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/33Arsenic75/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -488,6 +489,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/33Arsenic75/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2562-count-ways-to-build-good-strings](https://github.com/33Arsenic75/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
