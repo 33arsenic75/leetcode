@@ -294,6 +294,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/33Arsenic75/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/33Arsenic75/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -700,6 +701,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [2998-count-symmetric-integers](https://github.com/33Arsenic75/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Recursion
