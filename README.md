@@ -288,6 +288,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -713,6 +714,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/33Arsenic75/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
