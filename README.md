@@ -68,6 +68,7 @@
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/33Arsenic75/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/33Arsenic75/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/33Arsenic75/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/33Arsenic75/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -209,6 +210,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/33Arsenic75/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/33Arsenic75/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/33Arsenic75/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/33Arsenic75/leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/33Arsenic75/leetcode/tree/master/2089-maximum-matrix-sum) |
