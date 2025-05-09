@@ -60,6 +60,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/33Arsenic75/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/33Arsenic75/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +338,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -574,6 +576,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/33Arsenic75/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
 | ------- |
@@ -805,6 +808,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Ordered Set
 |  |
 | ------- |
