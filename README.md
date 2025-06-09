@@ -855,6 +855,7 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/33Arsenic75/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/33Arsenic75/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
