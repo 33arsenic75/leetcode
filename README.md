@@ -259,6 +259,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/33Arsenic75/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/33Arsenic75/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/33Arsenic75/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/33Arsenic75/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -400,6 +401,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/33Arsenic75/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/33Arsenic75/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/33Arsenic75/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/33Arsenic75/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/33Arsenic75/leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/33Arsenic75/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -553,6 +555,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/33Arsenic75/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/33Arsenic75/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/33Arsenic75/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/33Arsenic75/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
