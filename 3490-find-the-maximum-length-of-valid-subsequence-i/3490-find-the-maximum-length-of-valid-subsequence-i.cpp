@@ -17,21 +17,16 @@ public:
             }
         }
         if(lo == -1 || lz == -1)return max(z,o);
-        vector<int>ans(n);
-        ans[lo] = 1;
-        ans[lz] = 1;
         int llo = 0, llz = 0;
         for(int i = max(lo,lz); i >= 0 ; i--){
             if(nums[i] == 0){
-                ans[i] = llo + 1;
-                llz = ans[i];
+                llz = llo + 1;
             }
             else{
-                ans[i] = llz + 1;
-                llo = ans[i];
+                llo = llz + 1;
             }
         }
-        for(int i = 0 ; i < n ; i++)cout<<ans[i]<<" ";
+
         return max(max(llo,llz),max(z,o));
     }
 };
