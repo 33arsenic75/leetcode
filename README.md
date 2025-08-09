@@ -148,6 +148,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/33Arsenic75/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/33Arsenic75/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -323,6 +324,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/33Arsenic75/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/33Arsenic75/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/33Arsenic75/leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/33Arsenic75/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -382,6 +384,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/33Arsenic75/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/33Arsenic75/leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
+| [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -609,6 +612,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/33Arsenic75/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/33Arsenic75/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/33Arsenic75/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -922,6 +926,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/33Arsenic75/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
+| [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/33Arsenic75/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
