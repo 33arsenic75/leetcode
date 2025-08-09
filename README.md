@@ -265,6 +265,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/33Arsenic75/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/33Arsenic75/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2295-minimum-time-to-finish-the-race](https://github.com/33Arsenic75/leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2308-divide-array-into-equal-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/33Arsenic75/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -652,6 +653,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/33Arsenic75/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2295-minimum-time-to-finish-the-race](https://github.com/33Arsenic75/leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/33Arsenic75/leetcode/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
