@@ -1,47 +1,33 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    int minimumFinishTime(vector<vector<int>>& tires, int changeTime, int numLaps) {
-        const long long INF = (long long)4e18;
-        int L = numLaps;
-        vector<long long> best(L+1, INF);
 
-        for (auto &t : tires) {
-            long long f = t[0];
-            long long r = t[1];
+int minimumFinishTime(vector<vector<int>>& tires, int changeTime, int numLaps) {
+    const int INF = 1e9;
+    vector<int> best(numLaps+1, INF);
 
-            long long cur = f;
-            long long sum = 0;
-            for (int k = 1; k <= L; ++k) {
-                sum += cur;
-                if (sum < best[k]) best[k] = sum;
-
-                if (k == L) break;
-                if (cur > LLONG_MAX / max(1LL, r)) break;
-                long long nextLap = cur * r;
-                if (nextLap > f + changeTime) break;
-                cur = nextLap;
-            }
+    // Step 1: Precompute best continuous time per lap count
+    for (auto &tire : tires) {
+        long long f = tire[0], r = tire[1];
+        long long lapTime = f, total = f;
+        best[1] = min(best[1], (int)f);
+        for (int l = 2; l <= numLaps; l++) {
+            lapTime *= r;
+            if (lapTime > f + changeTime) break; // Not worth continuing
+            total += lapTime;
+            best[l] = min(best[l], (int)total);
         }
-
-        int maxConsec = 0;
-        for (int k = 1; k <= L; ++k) if (best[k] < INF) maxConsec = k;
-        vector<long long> dp(L+1, INF);
-        dp[0] = 0;
-
-        for (int i = 1; i <= L; ++i) {
-            for (int j = 1; j <= min(i, maxConsec); ++j) {
-                if (best[j] == INF) continue;
-                if (j == i) {
-                    dp[i] = min(dp[i], best[j]);
-                } else {
-                    dp[i] = min(dp[i], dp[i - j] + changeTime + best[j]);
-                }
-            }
-        }
-
-        return (int)dp[L];
     }
+
+    // Step 2: Race DP
+    vector<int> dp(numLaps+1, INF);
+    dp[0] = 0;
+    for (int l = 1; l <= numLaps; l++) {
+        for (int k = 1; k <= l; k++) {
+            if (k == l) dp[l] = min(dp[l], best[k]);
+            else dp[l] = min(dp[l], dp[l-k] + changeTime + best[k]);
+        }
+    }
+    return dp[numLaps];
+}
+
 };
