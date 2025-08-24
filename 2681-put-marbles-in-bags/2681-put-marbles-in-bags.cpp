@@ -1,16 +1,19 @@
+using ll = long long;
 class Solution {
 public:
-    long long putMarbles(vector<int>& weights, int k) {
-        int n = weights.size();
-        vector<int> pairWeights(n - 1, 0);
-        for (int i = 0; i < n - 1; ++i) {
-            pairWeights[i] += weights[i] + weights[i + 1];
+    long long putMarbles(vector<int>& wts, int k) {
+        int n = wts.size();
+        vector<ll>ans(n-1);
+        for(int i = 1 ; i < n ; i++){
+            ans[i-1] = (ll)wts[i-1] + (ll)wts[i]; 
         }
-        sort(pairWeights.begin(), pairWeights.end());
-        long long answer = 0;
-        for (int i = 0; i < k - 1; ++i) {
-            answer += pairWeights[n - 2 - i] - pairWeights[i];
+        sort(ans.begin(), ans.end());
+        // for(int i = 0 ; i < n - 1; i++)cout<<ans[i]<<" ";
+        ll mx = 0, mn = 0;
+        for(int i = 0 ; i < k-1 ; i++){
+            mn += ans[i];
+            mx += ans[n-2-i];
         }
-        return answer;
+        return mx - mn;
     }
 };
