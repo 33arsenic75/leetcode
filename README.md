@@ -290,6 +290,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/33Arsenic75/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/33Arsenic75/leetcode/tree/master/2690-house-robber-iv) |
@@ -430,6 +431,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/33Arsenic75/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -461,6 +463,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/33Arsenic75/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/33Arsenic75/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/33Arsenic75/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -587,6 +590,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/33Arsenic75/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/33Arsenic75/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -727,6 +731,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/33Arsenic75/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/33Arsenic75/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/33Arsenic75/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
