@@ -384,6 +384,7 @@
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -688,6 +689,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/33Arsenic75/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -972,6 +974,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/33Arsenic75/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
