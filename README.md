@@ -222,6 +222,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -382,6 +383,7 @@
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
+| [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -671,6 +673,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/33Arsenic75/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/33Arsenic75/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
