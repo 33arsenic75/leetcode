@@ -408,6 +408,7 @@
 | [2998-count-symmetric-integers](https://github.com/33Arsenic75/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/33Arsenic75/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
 | [3201-distribute-candies-among-children-ii](https://github.com/33Arsenic75/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/33Arsenic75/leetcode/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -463,6 +464,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/33Arsenic75/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -940,6 +942,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/33Arsenic75/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/33Arsenic75/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/33Arsenic75/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
