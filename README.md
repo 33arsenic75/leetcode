@@ -67,6 +67,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/33Arsenic75/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/33Arsenic75/leetcode/tree/master/3447-clear-digits) |
@@ -158,6 +159,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/33Arsenic75/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -344,6 +346,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/33Arsenic75/leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/33Arsenic75/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/33Arsenic75/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -465,6 +468,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/33Arsenic75/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -638,6 +642,7 @@
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/33Arsenic75/leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/33Arsenic75/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/33Arsenic75/leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/33Arsenic75/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -662,6 +667,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/33Arsenic75/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/33Arsenic75/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
