@@ -27,6 +27,7 @@
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/33Arsenic75/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/33arsenic75/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/33Arsenic75/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1238-alphabet-board-path](https://github.com/33Arsenic75/leetcode/tree/master/1238-alphabet-board-path) |
@@ -707,6 +708,7 @@
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/33arsenic75/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/33Arsenic75/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
