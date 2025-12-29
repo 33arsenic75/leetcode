@@ -21,6 +21,7 @@
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -116,6 +117,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -684,6 +686,7 @@
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/33Arsenic75/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/33Arsenic75/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -941,6 +944,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
+| [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
