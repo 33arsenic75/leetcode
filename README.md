@@ -1240,4 +1240,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Concurrency
+|  |
+| ------- |
+| [1316-fizz-buzz-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
