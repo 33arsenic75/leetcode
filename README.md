@@ -364,6 +364,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/33Arsenic75/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/33arsenic75/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2846-robot-collisions](https://github.com/33arsenic75/leetcode/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
@@ -1040,6 +1041,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/33Arsenic75/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2528-number-of-valid-clock-times](https://github.com/33Arsenic75/leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/33arsenic75/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/33Arsenic75/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/33Arsenic75/leetcode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/33Arsenic75/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
