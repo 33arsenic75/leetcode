@@ -21,6 +21,7 @@
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/33Arsenic75/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
@@ -127,6 +128,7 @@
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
+| [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
@@ -676,6 +678,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
@@ -1014,6 +1017,7 @@
 | [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/33Arsenic75/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/33Arsenic75/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -1070,6 +1074,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/33Arsenic75/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/33Arsenic75/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/33Arsenic75/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
