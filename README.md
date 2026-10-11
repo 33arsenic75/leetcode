@@ -229,6 +229,7 @@
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/33arsenic75/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/33arsenic75/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/33Arsenic75/leetcode/tree/master/0075-sort-colors) |
@@ -667,6 +668,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/33arsenic75/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/33Arsenic75/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -1252,4 +1254,8 @@
 | [1216-print-zero-even-odd](https://github.com/33arsenic75/leetcode/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/33arsenic75/leetcode/tree/master/1340-the-dining-philosophers) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/33arsenic75/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
