@@ -123,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
@@ -812,6 +813,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/33Arsenic75/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1007,6 +1009,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1184,6 +1187,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Rolling Hash
 |  |
