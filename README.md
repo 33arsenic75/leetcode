@@ -254,6 +254,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -549,6 +550,7 @@
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/33Arsenic75/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1136,6 +1138,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/33Arsenic75/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1199,6 +1202,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1206,6 +1210,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1214,6 +1219,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/33arsenic75/leetcode/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1237,6 +1243,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Game Theory
@@ -1312,4 +1319,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
