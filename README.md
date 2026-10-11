@@ -242,6 +242,7 @@
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/33arsenic75/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -487,6 +488,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
@@ -580,6 +582,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/33arsenic75/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -612,6 +615,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -683,6 +687,7 @@
 | [0147-insertion-sort-list](https://github.com/33Arsenic75/leetcode/tree/master/0147-insertion-sort-list) |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -832,6 +837,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/33Arsenic75/leetcode/tree/master/0075-sort-colors) |
+| [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/33Arsenic75/leetcode/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
