@@ -128,6 +128,7 @@
 | [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0359-logger-rate-limiter](https://github.com/33arsenic75/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
 | [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
@@ -1045,6 +1046,7 @@
 | [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0359-logger-rate-limiter](https://github.com/33arsenic75/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
@@ -1295,6 +1297,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/33arsenic75/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Concurrency
