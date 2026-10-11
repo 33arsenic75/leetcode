@@ -906,6 +906,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -943,6 +944,7 @@
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
@@ -1258,6 +1260,7 @@
 | [1216-print-zero-even-odd](https://github.com/33arsenic75/leetcode/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/33arsenic75/leetcode/tree/master/1340-the-dining-philosophers) |
+| [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Quicksort
 |  |
 | ------- |
