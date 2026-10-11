@@ -247,6 +247,7 @@
 | [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -550,6 +551,7 @@
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -577,6 +579,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/33arsenic75/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/33Arsenic75/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1042,6 +1045,7 @@
 | [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/33Arsenic75/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1291,6 +1295,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/33arsenic75/leetcode/tree/master/0362-design-hit-counter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Concurrency
 |  |
