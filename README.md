@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/33arsenic75/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
@@ -795,6 +796,7 @@
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/33arsenic75/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
 | [0276-paint-fence](https://github.com/33arsenic75/leetcode/tree/master/0276-paint-fence) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/33Arsenic75/leetcode/tree/master/0416-partition-equal-subset-sum) |
