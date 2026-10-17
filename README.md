@@ -347,6 +347,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/33Arsenic75/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/33Arsenic75/leetcode/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2308-divide-array-into-equal-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2329-maximum-product-after-k-increments](https://github.com/33arsenic75/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/33arsenic75/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/33Arsenic75/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -526,6 +527,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/33Arsenic75/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/33Arsenic75/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2329-maximum-product-after-k-increments](https://github.com/33arsenic75/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/33Arsenic75/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/33Arsenic75/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/33Arsenic75/leetcode/tree/master/2509-minimize-xor) |
@@ -612,6 +614,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/33arsenic75/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/33Arsenic75/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2329-maximum-product-after-k-increments](https://github.com/33arsenic75/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/33Arsenic75/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
