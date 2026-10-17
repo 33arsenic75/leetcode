@@ -274,6 +274,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0810-valid-tic-tac-toe-state](https://github.com/33arsenic75/leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0854-making-a-large-island](https://github.com/33Arsenic75/leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -671,6 +672,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
+| [0810-valid-tic-tac-toe-state](https://github.com/33arsenic75/leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0854-making-a-large-island](https://github.com/33Arsenic75/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/33Arsenic75/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/33arsenic75/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
