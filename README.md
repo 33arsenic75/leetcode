@@ -266,6 +266,7 @@
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
@@ -680,6 +681,7 @@
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/33arsenic75/leetcode/tree/master/0810-valid-tic-tac-toe-state) |
@@ -994,6 +996,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/33Arsenic75/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
