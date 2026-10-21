@@ -627,6 +627,7 @@
 | [2023-design-movie-rental-system](https://github.com/33Arsenic75/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/33arsenic75/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/33Arsenic75/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2300-construct-string-with-repeat-limit](https://github.com/33Arsenic75/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/33arsenic75/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1063,6 +1064,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/33Arsenic75/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1320,6 +1322,7 @@
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1381,4 +1384,8 @@
 |  |
 | ------- |
 | [1290-make-array-strictly-increasing](https://github.com/33arsenic75/leetcode/tree/master/1290-make-array-strictly-increasing) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
