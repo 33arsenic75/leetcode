@@ -94,6 +94,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/33Arsenic75/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/33Arsenic75/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/33arsenic75/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
