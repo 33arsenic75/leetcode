@@ -301,6 +301,7 @@
 | [1364-tuple-with-same-product](https://github.com/33Arsenic75/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/33Arsenic75/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/33arsenic75/leetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -518,6 +519,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/33Arsenic75/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/33arsenic75/leetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/33arsenic75/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -613,6 +615,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/33arsenic75/leetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -831,6 +834,7 @@
 | [1170-shortest-common-supersequence](https://github.com/33Arsenic75/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1290-make-array-strictly-increasing](https://github.com/33arsenic75/leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1419-make-array-non-decreasing-or-non-increasing](https://github.com/33arsenic75/leetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
