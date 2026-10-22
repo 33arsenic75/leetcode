@@ -207,6 +207,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/33Arsenic75/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
+| [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -448,6 +449,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
 | [4257-sum-of-sortable-integers](https://github.com/33arsenic75/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -798,6 +800,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/33Arsenic75/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/33Arsenic75/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
+| [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
 ## Backtracking
 |  |
 | ------- |
