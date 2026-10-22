@@ -448,6 +448,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/33Arsenic75/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/33Arsenic75/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/33Arsenic75/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -1122,6 +1123,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/33Arsenic75/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -1137,6 +1139,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [4257-sum-of-sortable-integers](https://github.com/33arsenic75/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -1146,6 +1149,7 @@
 | [0050-powx-n](https://github.com/33arsenic75/leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Trie
 |  |
 | ------- |
