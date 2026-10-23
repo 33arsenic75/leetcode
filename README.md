@@ -476,6 +476,7 @@
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1213-handshakes-that-dont-cross](https://github.com/33arsenic75/leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/33Arsenic75/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/33arsenic75/leetcode/tree/master/1429-verbal-arithmetic-puzzle) |
@@ -853,6 +854,7 @@
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/33arsenic75/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/33Arsenic75/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1213-handshakes-that-dont-cross](https://github.com/33arsenic75/leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1290-make-array-strictly-increasing](https://github.com/33arsenic75/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1419-make-array-non-decreasing-or-non-increasing](https://github.com/33arsenic75/leetcode/tree/master/1419-make-array-non-decreasing-or-non-increasing) |
