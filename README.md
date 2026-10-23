@@ -190,6 +190,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/33Arsenic75/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/33arsenic75/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
@@ -411,6 +412,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/33Arsenic75/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/33Arsenic75/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/33arsenic75/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/33Arsenic75/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3164-last-visited-integers](https://github.com/33Arsenic75/leetcode/tree/master/3164-last-visited-integers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/33Arsenic75/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -575,6 +577,7 @@
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/33arsenic75/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/33Arsenic75/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
 | [3317-maximum-palindromes-after-operations](https://github.com/33arsenic75/leetcode/tree/master/3317-maximum-palindromes-after-operations) |
@@ -1159,6 +1162,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/33Arsenic75/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/33Arsenic75/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/33arsenic75/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3192-maximum-xor-product](https://github.com/33arsenic75/leetcode/tree/master/3192-maximum-xor-product) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/33Arsenic75/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
