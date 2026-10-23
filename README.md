@@ -450,6 +450,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/33Arsenic75/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
@@ -1124,6 +1125,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
