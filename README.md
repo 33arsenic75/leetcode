@@ -457,6 +457,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -693,6 +694,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/33Arsenic75/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/33Arsenic75/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 ## Monotonic Queue
 |  |
@@ -739,6 +741,7 @@
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/33Arsenic75/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/33Arsenic75/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1179,6 +1182,7 @@
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4257-sum-of-sortable-integers](https://github.com/33arsenic75/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Recursion
 |  |
