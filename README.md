@@ -495,6 +495,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -879,6 +880,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/33Arsenic75/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/33arsenic75/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/33Arsenic75/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -971,6 +973,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/33Arsenic75/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -1248,6 +1251,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Brainteaser
@@ -1338,6 +1342,7 @@
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Knapsack Problem
@@ -1452,6 +1457,7 @@
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
+| [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 ## Impartial Game
 |  |
 | ------- |
