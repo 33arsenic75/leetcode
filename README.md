@@ -875,6 +875,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1828-count-ways-to-distribute-candies](https://github.com/33arsenic75/leetcode/tree/master/1828-count-ways-to-distribute-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
