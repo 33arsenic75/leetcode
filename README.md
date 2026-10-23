@@ -209,6 +209,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/33Arsenic75/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/33Arsenic75/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/33Arsenic75/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
@@ -456,6 +457,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/33Arsenic75/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/33Arsenic75/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/33Arsenic75/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -623,6 +625,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/33Arsenic75/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 ## Queue
 |  |
@@ -1382,6 +1385,7 @@
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -1394,6 +1398,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [3561-remove-methods-from-project](https://github.com/33arsenic75/leetcode/tree/master/3561-remove-methods-from-project) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
