@@ -316,6 +316,7 @@
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [1696-strange-printer-ii](https://github.com/33arsenic75/leetcode/tree/master/1696-strange-printer-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/33arsenic75/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -480,6 +481,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/33Arsenic75/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -855,6 +857,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/33Arsenic75/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -1311,6 +1314,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Knapsack Problem
 |  |
