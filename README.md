@@ -465,6 +465,7 @@
 | [0043-multiply-strings](https://github.com/33Arsenic75/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/33arsenic75/leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/33arsenic75/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -821,6 +822,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
@@ -845,6 +847,7 @@
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
 | [0276-paint-fence](https://github.com/33arsenic75/leetcode/tree/master/0276-paint-fence) |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/33Arsenic75/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
@@ -1015,6 +1018,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
@@ -1331,6 +1335,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
@@ -1431,6 +1436,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1444,9 +1450,11 @@
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
 ## Impartial Game
 |  |
 | ------- |
+| [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
 <!---LeetCode Topics End-->
