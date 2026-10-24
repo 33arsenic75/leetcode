@@ -14,6 +14,7 @@
 | [0071-simplify-path](https://github.com/33arsenic75/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/33arsenic75/leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
@@ -865,6 +866,7 @@
 | [0053-maximum-subarray](https://github.com/33arsenic75/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/33arsenic75/leetcode/tree/master/0091-decode-ways) |
 | [0276-paint-fence](https://github.com/33arsenic75/leetcode/tree/master/0276-paint-fence) |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0322-coin-change](https://github.com/33arsenic75/leetcode/tree/master/0322-coin-change) |
