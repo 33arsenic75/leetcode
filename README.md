@@ -291,6 +291,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -859,6 +860,7 @@
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/33arsenic75/leetcode/tree/master/1429-verbal-arithmetic-puzzle) |
@@ -896,6 +898,7 @@
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/33Arsenic75/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -1070,6 +1073,7 @@
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0464-can-i-win](https://github.com/33arsenic75/leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
@@ -1185,6 +1189,7 @@
 | [0464-can-i-win](https://github.com/33arsenic75/leetcode/tree/master/0464-can-i-win) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1294,6 +1299,7 @@
 | [0464-can-i-win](https://github.com/33arsenic75/leetcode/tree/master/0464-can-i-win) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Binary Tree
