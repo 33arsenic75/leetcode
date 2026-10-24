@@ -226,6 +226,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
@@ -685,6 +686,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/33Arsenic75/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -705,6 +707,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/33Arsenic75/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/33Arsenic75/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -849,6 +852,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/33Arsenic75/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 ## Breadth-First Search
@@ -944,6 +948,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1031,6 +1036,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Binary Tree
@@ -1124,4 +1130,12 @@
 |  |
 | ------- |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
