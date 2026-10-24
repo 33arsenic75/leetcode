@@ -486,6 +486,7 @@
 | [0149-max-points-on-a-line](https://github.com/33arsenic75/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/33arsenic75/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -884,6 +885,7 @@
 | [0322-coin-change](https://github.com/33arsenic75/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/33arsenic75/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/33Arsenic75/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
@@ -1392,6 +1394,7 @@
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/33arsenic75/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
@@ -1503,6 +1506,7 @@
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/33arsenic75/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
