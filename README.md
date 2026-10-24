@@ -225,6 +225,7 @@
 | [0239-sliding-window-maximum](https://github.com/33arsenic75/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/33Arsenic75/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/33arsenic75/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -501,6 +502,7 @@
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -904,6 +906,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/33Arsenic75/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/33Arsenic75/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1557,4 +1560,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
