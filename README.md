@@ -276,6 +276,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
@@ -488,6 +489,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/33Arsenic75/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/33Arsenic75/leetcode/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/33Arsenic75/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
@@ -884,6 +886,7 @@
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/33Arsenic75/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0465-optimal-account-balancing](https://github.com/33arsenic75/leetcode/tree/master/0465-optimal-account-balancing) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/33arsenic75/leetcode/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
@@ -1222,6 +1225,7 @@
 | [0044-wildcard-matching](https://github.com/33Arsenic75/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/33arsenic75/leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/33Arsenic75/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2050-count-good-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Trie
@@ -1388,6 +1392,7 @@
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
@@ -1498,6 +1503,7 @@
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 ## Nim Game
@@ -1508,6 +1514,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/33arsenic75/leetcode/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
