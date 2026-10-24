@@ -16,6 +16,7 @@
 | [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/33arsenic75/leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -131,6 +132,7 @@
 | [0049-group-anagrams](https://github.com/33Arsenic75/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/33arsenic75/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/33arsenic75/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/33arsenic75/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0290-word-pattern](https://github.com/33arsenic75/leetcode/tree/master/0290-word-pattern) |
@@ -254,6 +256,7 @@
 | [0075-sort-colors](https://github.com/33Arsenic75/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/33Arsenic75/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/33arsenic75/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/33arsenic75/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -867,6 +870,7 @@
 | [0072-edit-distance](https://github.com/33Arsenic75/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/33arsenic75/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/33arsenic75/leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0276-paint-fence](https://github.com/33arsenic75/leetcode/tree/master/0276-paint-fence) |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0322-coin-change](https://github.com/33arsenic75/leetcode/tree/master/0322-coin-change) |
@@ -1045,6 +1049,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
@@ -1212,6 +1217,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/33Arsenic75/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/33Arsenic75/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/33Arsenic75/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -1504,4 +1510,8 @@
 | ------- |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
 | [2062-game-of-nim](https://github.com/33arsenic75/leetcode/tree/master/2062-game-of-nim) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/33arsenic75/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
