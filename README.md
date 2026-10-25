@@ -301,6 +301,7 @@
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0810-valid-tic-tac-toe-state](https://github.com/33arsenic75/leetcode/tree/master/0810-valid-tic-tac-toe-state) |
+| [0813-largest-sum-of-averages](https://github.com/33arsenic75/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0854-making-a-large-island](https://github.com/33Arsenic75/leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -708,6 +709,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0813-largest-sum-of-averages](https://github.com/33arsenic75/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/33arsenic75/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/33Arsenic75/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -915,6 +917,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/33Arsenic75/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/33arsenic75/leetcode/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/33arsenic75/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
