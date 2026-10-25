@@ -293,6 +293,7 @@
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/33arsenic75/leetcode/tree/master/0665-non-decreasing-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -916,6 +917,7 @@
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
 | [0664-strange-printer](https://github.com/33arsenic75/leetcode/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1389,6 +1391,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1397,6 +1400,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1542,6 +1546,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/33arsenic75/leetcode/tree/master/1290-make-array-strictly-increasing) |
 ## Dijkstra's Algorithm
 |  |
