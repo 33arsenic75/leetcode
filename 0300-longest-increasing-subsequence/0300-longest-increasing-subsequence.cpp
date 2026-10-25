@@ -1,59 +1,30 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        /// DP1
-        // int n = nums.size();
-        // vector<int>ans(n,1);
-        // for(int i = 0 ; i < n ; i++){
-            // for(int j = 0 ; j < i ; j++){
-                // if(nums[j] < nums[i]){
-                    // ans[i] = max(ans[i],ans[j]+1);
-                // }
-            // }
-        // }
-        // return *max_element(ans.begin(),ans.end());
-
-        /// DP2
-        // int n = nums.size();
-        // const int INF = 1e9;
-        // vector<int>d(n+1,INF);
-        // d[0] = -INF;
-        // for(int i: nums){
-            // for(int pos = 1 ; pos <= n ; pos++){
-                // if(d[pos-1] < i){
-                    // d[pos] = min(d[pos],i);
-                // }
-            // }
-        // }
-        // int ans = 0;
-        // for(int i = 0 ; i <= n ; i++){
-            // if(d[i]!=INF)ans = i;
-        // }
-        // return ans;
-
-        /// nlog(n)
+        
         int n = nums.size();
-        const int INF = 1e9;
-        vector<int>d(n+1,INF);
-        d[0] = -INF;
-        for(int i: nums){
-            int low = 0, high = n, mid , ans = 0;
-            while(low<=high){
-                mid = low + (high-low)/2;
-                if(d[mid] >= i){
+        vector<int>dp(n+1, INT_MAX);
+        dp[0] = 0;
+        int result = 0;
+        for(int a: nums){
+            int low = 1; 
+            int high = n;
+            int mid = 0;
+            int ans = 0;
+
+            while(low <= high){
+                mid = low + (high - low)/2;
+                if(dp[mid] < a){
                     ans = mid;
-                    high = mid - 1;
-                }
-                else{
                     low = mid + 1;
                 }
+                else{
+                    high = mid - 1;
+                }
             }
-            d[ans] = i;
+            dp[ans+1] = a;
+            result = max(result, ans + 1);
         }
-        int ans = 0;
-        for(int i = 0 ; i <= n ; i++){
-            if(d[i]!=INF)ans = i;
-        }
-        return ans;
+        return result;
     }
 };
