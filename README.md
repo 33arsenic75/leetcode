@@ -502,6 +502,7 @@
 | [0593-valid-square](https://github.com/33Arsenic75/leetcode/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/33arsenic75/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0808-soup-servings](https://github.com/33arsenic75/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -906,6 +907,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/33Arsenic75/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0808-soup-servings](https://github.com/33arsenic75/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
@@ -1563,5 +1565,6 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0808-soup-servings](https://github.com/33arsenic75/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
