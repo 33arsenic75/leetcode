@@ -319,6 +319,7 @@
 | [1063-best-sightseeing-pair](https://github.com/33Arsenic75/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/33arsenic75/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/33Arsenic75/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1290-make-array-strictly-increasing](https://github.com/33arsenic75/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/33Arsenic75/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/33Arsenic75/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -747,6 +748,7 @@
 | [0854-making-a-large-island](https://github.com/33Arsenic75/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/33Arsenic75/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/33arsenic75/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/33Arsenic75/leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -1062,6 +1064,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1112,6 +1115,7 @@
 | [0960-minimize-malware-spread](https://github.com/33arsenic75/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1452,6 +1456,7 @@
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0989-largest-component-size-by-common-factor](https://github.com/33arsenic75/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Prime Factorization
 |  |
