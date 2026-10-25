@@ -27,6 +27,7 @@
 | [0556-next-greater-element-iii](https://github.com/33Arsenic75/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0588-design-in-memory-file-system](https://github.com/33arsenic75/leetcode/tree/master/0588-design-in-memory-file-system) |
 | [0649-dota2-senate](https://github.com/33Arsenic75/leetcode/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/33arsenic75/leetcode/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/33Arsenic75/leetcode/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/33arsenic75/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -914,6 +915,7 @@
 | [0518-coin-change-ii](https://github.com/33arsenic75/leetcode/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/33Arsenic75/leetcode/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/33arsenic75/leetcode/tree/master/0638-shopping-offers) |
+| [0664-strange-printer](https://github.com/33arsenic75/leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/33arsenic75/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/33arsenic75/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
