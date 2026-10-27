@@ -1049,6 +1049,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1081,6 +1082,7 @@
 | [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/33Arsenic75/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
+| [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1132,6 +1134,7 @@
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1254-number-of-closed-islands](https://github.com/33arsenic75/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1368-web-crawler-multithreaded](https://github.com/33arsenic75/leetcode/tree/master/1368-web-crawler-multithreaded) |
+| [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
@@ -1486,6 +1489,7 @@
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
+| [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [3561-remove-methods-from-project](https://github.com/33arsenic75/leetcode/tree/master/3561-remove-methods-from-project) |
