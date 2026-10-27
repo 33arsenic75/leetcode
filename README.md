@@ -1044,6 +1044,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/33arsenic75/leetcode/tree/master/0663-equal-tree-partition) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1070,6 +1071,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/33arsenic75/leetcode/tree/master/0663-equal-tree-partition) |
 | [0684-redundant-connection](https://github.com/33Arsenic75/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/33Arsenic75/leetcode/tree/master/0721-accounts-merge) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/33Arsenic75/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1352,6 +1354,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/33arsenic75/leetcode/tree/master/0663-equal-tree-partition) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
