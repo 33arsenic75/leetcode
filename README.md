@@ -1053,6 +1053,7 @@
 | [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/33arsenic75/leetcode/tree/master/2792-count-nodes-that-are-great-enough) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/33Arsenic75/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/33Arsenic75/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/33Arsenic75/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1091,6 +1092,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/33arsenic75/leetcode/tree/master/2792-count-nodes-that-are-great-enough) |
 | [2793-count-the-number-of-complete-components](https://github.com/33Arsenic75/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/33Arsenic75/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/33Arsenic75/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1357,6 +1359,7 @@
 | [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/33arsenic75/leetcode/tree/master/2792-count-nodes-that-are-great-enough) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1421,6 +1424,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/33arsenic75/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/33arsenic75/leetcode/tree/master/2792-count-nodes-that-are-great-enough) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 ## Doubly-Linked List
 |  |
