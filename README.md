@@ -285,6 +285,7 @@
 | [0493-reverse-pairs](https://github.com/33arsenic75/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/33Arsenic75/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/33Arsenic75/leetcode/tree/master/0495-teemo-attacking) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0518-coin-change-ii](https://github.com/33arsenic75/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/33Arsenic75/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
@@ -680,6 +681,7 @@
 | [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/33arsenic75/leetcode/tree/master/0480-sliding-window-median) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/33arsenic75/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/33Arsenic75/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -751,6 +753,7 @@
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/33arsenic75/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0787-sliding-puzzle](https://github.com/33Arsenic75/leetcode/tree/master/0787-sliding-puzzle) |
@@ -1072,6 +1075,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/33Arsenic75/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1128,6 +1132,7 @@
 | [0322-coin-change](https://github.com/33arsenic75/leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
@@ -1194,6 +1199,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/33Arsenic75/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -1502,6 +1508,7 @@
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -1575,6 +1582,7 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 ## Minimax
 |  |
@@ -1624,4 +1632,12 @@
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Heuristic Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
+## A* Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 <!---LeetCode Topics End-->
