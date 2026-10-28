@@ -494,6 +494,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4228-delayed-count-of-equal-elements](https://github.com/33arsenic75/leetcode/tree/master/4228-delayed-count-of-equal-elements) |
 | [4257-sum-of-sortable-integers](https://github.com/33arsenic75/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Math
@@ -793,6 +794,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/33Arsenic75/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/33Arsenic75/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -987,6 +989,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/33Arsenic75/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -1278,6 +1281,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
