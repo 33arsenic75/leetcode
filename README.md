@@ -186,6 +186,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/33Arsenic75/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/33Arsenic75/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/33Arsenic75/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/33arsenic75/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/33arsenic75/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1540,6 +1541,7 @@
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/33arsenic75/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3561-remove-methods-from-project](https://github.com/33arsenic75/leetcode/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Eulerian Circuit
