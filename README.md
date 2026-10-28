@@ -1286,6 +1286,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/33arsenic75/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/33Arsenic75/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/33Arsenic75/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1535,6 +1536,7 @@
 | [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/33arsenic75/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
