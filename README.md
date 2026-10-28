@@ -1058,6 +1058,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/33arsenic75/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1380,6 +1381,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/33Arsenic75/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/33arsenic75/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/33Arsenic75/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/33Arsenic75/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/33arsenic75/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1663,4 +1665,8 @@
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/33arsenic75/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
