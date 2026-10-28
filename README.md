@@ -352,6 +352,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/33Arsenic75/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/33Arsenic75/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/33arsenic75/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -526,6 +527,7 @@
 | [1685-stone-game-v](https://github.com/33arsenic75/leetcode/tree/master/1685-stone-game-v) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/33Arsenic75/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1965-sum-of-digits-in-base-k](https://github.com/33Arsenic75/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -949,6 +951,7 @@
 | [1828-count-ways-to-distribute-candies](https://github.com/33arsenic75/leetcode/tree/master/1828-count-ways-to-distribute-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/33Arsenic75/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/33Arsenic75/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1051,6 +1054,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/33Arsenic75/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/33Arsenic75/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2153-subtree-removal-game-with-fibonacci-tree](https://github.com/33arsenic75/leetcode/tree/master/2153-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1088,6 +1092,7 @@
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1396-count-servers-that-communicate](https://github.com/33Arsenic75/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/33Arsenic75/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/33Arsenic75/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1313,6 +1318,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/33Arsenic75/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/33arsenic75/leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/33Arsenic75/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1377,6 +1383,7 @@
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
 | [1696-strange-printer-ii](https://github.com/33arsenic75/leetcode/tree/master/1696-strange-printer-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/33Arsenic75/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/33Arsenic75/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/33Arsenic75/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/33Arsenic75/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1497,6 +1504,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/33arsenic75/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0949-cat-and-mouse](https://github.com/33arsenic75/leetcode/tree/master/0949-cat-and-mouse) |
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [3561-remove-methods-from-project](https://github.com/33arsenic75/leetcode/tree/master/3561-remove-methods-from-project) |
@@ -1606,9 +1614,14 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/33arsenic75/leetcode/tree/master/0337-house-robber-iii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/33arsenic75/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/33arsenic75/leetcode/tree/master/0837-new-21-game) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
