@@ -371,6 +371,7 @@
 | [2107-find-unique-binary-string](https://github.com/33Arsenic75/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/33Arsenic75/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/33Arsenic75/leetcode/tree/master/2145-grid-game) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/33arsenic75/leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2156-stone-game-ix](https://github.com/33arsenic75/leetcode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/33Arsenic75/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1171,6 +1172,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/33Arsenic75/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/33Arsenic75/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/33Arsenic75/leetcode/tree/master/1876-map-of-highest-peak) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/33arsenic75/leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/33Arsenic75/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/33Arsenic75/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/33Arsenic75/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1539,6 +1541,7 @@
 | [1377-frog-position-after-t-seconds](https://github.com/33arsenic75/leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/33arsenic75/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/33arsenic75/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/33arsenic75/leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2201-valid-arrangement-of-pairs](https://github.com/33arsenic75/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/33arsenic75/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/33arsenic75/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
