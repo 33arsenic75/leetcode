@@ -53,6 +53,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/33arsenic75/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/33Arsenic75/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1754-largest-merge-of-two-strings](https://github.com/33arsenic75/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/33Arsenic75/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/33arsenic75/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/33Arsenic75/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -589,6 +590,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/33Arsenic75/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/33Arsenic75/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/33arsenic75/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1754-largest-merge-of-two-strings](https://github.com/33arsenic75/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/33Arsenic75/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/33Arsenic75/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/33arsenic75/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -1009,6 +1011,7 @@
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/33arsenic75/leetcode/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/33Arsenic75/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/33Arsenic75/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1754-largest-merge-of-two-strings](https://github.com/33arsenic75/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1972-rotating-the-box](https://github.com/33arsenic75/leetcode/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/33Arsenic75/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2232-adding-spaces-to-a-string](https://github.com/33Arsenic75/leetcode/tree/master/2232-adding-spaces-to-a-string) |
