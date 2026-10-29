@@ -418,6 +418,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/33Arsenic75/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2664-maximize-greatness-of-an-array](https://github.com/33arsenic75/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/33Arsenic75/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/33arsenic75/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -618,6 +619,7 @@
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/33Arsenic75/leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2664-maximize-greatness-of-an-array](https://github.com/33arsenic75/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/33Arsenic75/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -835,6 +837,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/33Arsenic75/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/33Arsenic75/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/33arsenic75/leetcode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2664-maximize-greatness-of-an-array](https://github.com/33arsenic75/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/33Arsenic75/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/33arsenic75/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1027,6 +1030,7 @@
 | [2414-move-pieces-to-obtain-a-string](https://github.com/33arsenic75/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/33Arsenic75/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2664-maximize-greatness-of-an-array](https://github.com/33arsenic75/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/33Arsenic75/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/33Arsenic75/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/33Arsenic75/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
