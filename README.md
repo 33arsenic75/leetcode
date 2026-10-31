@@ -487,6 +487,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/33Arsenic75/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/33Arsenic75/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/33Arsenic75/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3665-twisted-mirror-path-count](https://github.com/33arsenic75/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/33Arsenic75/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/33arsenic75/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -797,6 +798,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/33arsenic75/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/33Arsenic75/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/33Arsenic75/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/33arsenic75/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Sorting
@@ -993,6 +995,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/33Arsenic75/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/33Arsenic75/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3665-twisted-mirror-path-count](https://github.com/33arsenic75/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Linked List
