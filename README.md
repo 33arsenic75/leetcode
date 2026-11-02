@@ -270,6 +270,7 @@
 | [0239-sliding-window-maximum](https://github.com/33arsenic75/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/33Arsenic75/leetcode/tree/master/0260-single-number-iii) |
+| [0296-best-meeting-point](https://github.com/33arsenic75/leetcode/tree/master/0296-best-meeting-point) |
 | [0300-longest-increasing-subsequence](https://github.com/33arsenic75/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/33arsenic75/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/33arsenic75/leetcode/tree/master/0312-burst-balloons) |
@@ -510,6 +511,7 @@
 | [0050-powx-n](https://github.com/33arsenic75/leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/33arsenic75/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0294-flip-game-ii](https://github.com/33arsenic75/leetcode/tree/master/0294-flip-game-ii) |
+| [0296-best-meeting-point](https://github.com/33arsenic75/leetcode/tree/master/0296-best-meeting-point) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/33arsenic75/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/33arsenic75/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -766,6 +768,7 @@
 | [0037-sudoku-solver](https://github.com/33Arsenic75/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/33Arsenic75/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/33Arsenic75/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0296-best-meeting-point](https://github.com/33arsenic75/leetcode/tree/master/0296-best-meeting-point) |
 | [0407-trapping-rain-water-ii](https://github.com/33Arsenic75/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0505-the-maze-ii](https://github.com/33arsenic75/leetcode/tree/master/0505-the-maze-ii) |
 | [0550-shortest-path-to-get-food](https://github.com/33arsenic75/leetcode/tree/master/0550-shortest-path-to-get-food) |
@@ -813,6 +816,7 @@
 | [0218-the-skyline-problem](https://github.com/33arsenic75/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/33Arsenic75/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0253-meeting-rooms-ii](https://github.com/33arsenic75/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0296-best-meeting-point](https://github.com/33arsenic75/leetcode/tree/master/0296-best-meeting-point) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/33Arsenic75/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/33Arsenic75/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/33Arsenic75/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
