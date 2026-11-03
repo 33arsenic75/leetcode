@@ -494,6 +494,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/33Arsenic75/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3665-twisted-mirror-path-count](https://github.com/33arsenic75/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/33Arsenic75/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/33arsenic75/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/33arsenic75/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/33arsenic75/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -580,6 +581,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/33Arsenic75/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/33Arsenic75/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/33Arsenic75/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/33arsenic75/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/33Arsenic75/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [4257-sum-of-sortable-integers](https://github.com/33arsenic75/leetcode/tree/master/4257-sum-of-sortable-integers) |
