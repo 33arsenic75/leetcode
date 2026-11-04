@@ -209,6 +209,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/33Arsenic75/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3516-design-neighbor-sum-service](https://github.com/33arsenic75/leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/33Arsenic75/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -248,6 +249,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/33Arsenic75/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/33Arsenic75/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/33Arsenic75/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
@@ -479,6 +481,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/33Arsenic75/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3516-design-neighbor-sum-service](https://github.com/33arsenic75/leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/33Arsenic75/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -574,6 +577,7 @@
 | [3321-type-of-triangle](https://github.com/33Arsenic75/leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3548-find-the-count-of-good-integers](https://github.com/33Arsenic75/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/33arsenic75/leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -731,6 +735,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/33Arsenic75/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/33Arsenic75/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/33Arsenic75/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/33Arsenic75/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/33Arsenic75/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1005,6 +1010,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/33Arsenic75/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/33Arsenic75/leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/33Arsenic75/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/33Arsenic75/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/33Arsenic75/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
