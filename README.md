@@ -506,6 +506,7 @@
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/33arsenic75/leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3904-smallest-stable-index-ii](https://github.com/33arsenic75/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -767,6 +768,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/33arsenic75/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/33Arsenic75/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3904-smallest-stable-index-ii](https://github.com/33arsenic75/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 ## Monotonic Queue
 |  |
