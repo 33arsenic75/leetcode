@@ -35,6 +35,7 @@
 | [0827-expressive-words](https://github.com/33Arsenic75/leetcode/tree/master/0827-expressive-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/33arsenic75/leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0868-push-dominoes](https://github.com/33Arsenic75/leetcode/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/33arsenic75/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/33arsenic75/leetcode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/33Arsenic75/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -607,6 +608,7 @@
 | [0768-partition-labels](https://github.com/33Arsenic75/leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/33Arsenic75/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/33arsenic75/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/33Arsenic75/leetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/33Arsenic75/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/33Arsenic75/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1083,6 +1085,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/33Arsenic75/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/33Arsenic75/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/33arsenic75/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/33arsenic75/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/33Arsenic75/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/33Arsenic75/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1902-car-fleet-ii](https://github.com/33arsenic75/leetcode/tree/master/1902-car-fleet-ii) |
@@ -1568,6 +1571,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/33arsenic75/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/33arsenic75/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |
