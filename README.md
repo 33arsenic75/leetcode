@@ -81,6 +81,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/33arsenic75/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/33arsenic75/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/33Arsenic75/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/33arsenic75/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/33Arsenic75/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/33Arsenic75/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/33Arsenic75/leetcode/tree/master/3194-find-words-containing-character) |
@@ -199,6 +200,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/33Arsenic75/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/33arsenic75/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/33arsenic75/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -244,6 +246,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/33Arsenic75/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/33Arsenic75/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/33Arsenic75/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/33arsenic75/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/33Arsenic75/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/33Arsenic75/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/33Arsenic75/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
