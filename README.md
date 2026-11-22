@@ -63,6 +63,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/33Arsenic75/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/33Arsenic75/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/33Arsenic75/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/33arsenic75/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/33Arsenic75/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/33Arsenic75/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/33Arsenic75/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
