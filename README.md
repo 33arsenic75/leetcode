@@ -125,6 +125,7 @@
 | [2846-robot-collisions](https://github.com/33arsenic75/leetcode/tree/master/2846-robot-collisions) |
 | [3164-last-visited-integers](https://github.com/33Arsenic75/leetcode/tree/master/3164-last-visited-integers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/33Arsenic75/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/33arsenic75/leetcode/tree/master/3360-stone-removal-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/33Arsenic75/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/33Arsenic75/leetcode/tree/master/3447-clear-digits) |
 | [3516-design-neighbor-sum-service](https://github.com/33arsenic75/leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -586,6 +587,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/33Arsenic75/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/33Arsenic75/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/33Arsenic75/leetcode/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/33arsenic75/leetcode/tree/master/3360-stone-removal-game) |
 | [3373-maximum-prime-difference](https://github.com/33Arsenic75/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/33Arsenic75/leetcode/tree/master/3388-right-triangles) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/33arsenic75/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
