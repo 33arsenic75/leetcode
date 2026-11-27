@@ -517,6 +517,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/33arsenic75/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/33arsenic75/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3904-smallest-stable-index-ii](https://github.com/33arsenic75/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/33arsenic75/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3955-threshold-majority-queries](https://github.com/33arsenic75/leetcode/tree/master/3955-threshold-majority-queries) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/33arsenic75/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -659,6 +660,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/33Arsenic75/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/33Arsenic75/leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3647-zero-array-transformation-iii](https://github.com/33Arsenic75/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/33arsenic75/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1039,6 +1041,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/33arsenic75/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/33arsenic75/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/33arsenic75/leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/33arsenic75/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/33arsenic75/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
